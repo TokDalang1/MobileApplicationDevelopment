@@ -18,7 +18,7 @@ const styles = StyleSheet.create({
     backgroundColor: "#FFFFFF",
   },
   title: {
-    fontFamily: "Poppins-Medium",
+    fontFamily: "Poppins-Regular",
     fontSize: 22,
   },
 });

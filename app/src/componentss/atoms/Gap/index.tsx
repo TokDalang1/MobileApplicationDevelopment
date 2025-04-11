@@ -10,5 +10,6 @@ export default Gap;
 const styles = StyleSheet.create({
   gap: (height) => ({
     height: height,
+    backgroundColor: "#fffff",
   }),
 });

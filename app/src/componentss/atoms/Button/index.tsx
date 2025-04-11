@@ -19,7 +19,7 @@ const styles = StyleSheet.create({
   }),
   label: (textColor) => ({
     textAlign: "center",
-    fontFamily: "Poppins-Medium",
+    fontFamily: "Poppins-Regular",
     fontSize: 14,
     color: textColor,
   }),
