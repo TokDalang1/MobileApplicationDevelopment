@@ -1,9 +1,11 @@
 import { StyleSheet, Text, View } from "react-native";
 import React from "react";
+import { ArrowBack } from "@/app/src/asset/ArrowBack";
 
 const Header = ({ title }) => {
   return (
     <View style={styles.container}>
+      <ArrowBack />
       <Text style={styles.title}>{title}</Text>
     </View>
   );
